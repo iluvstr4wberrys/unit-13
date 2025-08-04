@@ -2,8 +2,8 @@
 Lab11_bryandiaz.py
 Spaceship Repositioning Game
 Author: Bryan Diaz Revilla
-Purpose: Modify the spaceship game to position ship on left/right border facing center with up/down movement
-Date: 7/19/25
+Purpose: create a video game with a ship shooting beams at aliens and staying alive
+Date: 8/4/25
 """
 
 import sys
